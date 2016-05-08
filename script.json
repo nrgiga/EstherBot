@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m Clint Eastwood.\n![esther](http://www.trendolizer.com/assets_c/2016/03/2765858-thumb-288xauto-2401560.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m Clint Eastwood.\n![esther](http://hypervocal.com/wp-content/uploads/2012/08/tumblr_lrsz9dRD2m1qm1975o1_500-1.gif)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
